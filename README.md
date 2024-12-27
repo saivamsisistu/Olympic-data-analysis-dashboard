@@ -83,19 +83,24 @@ Includes visualizations like line graphs and bar charts to showcase trends over 
 ![image](https://github.com/user-attachments/assets/c078ede5-193f-4d97-9986-7e22133a9b98)
 ![image](https://github.com/user-attachments/assets/a9d34ef9-5197-495b-993d-e21ad46ff56f)
 ![image](https://github.com/user-attachments/assets/4bfd5301-9733-4b8c-8f98-ad6012fda349)
+![image](https://github.com/user-attachments/assets/704ba782-1952-4246-823f-9ec2e1ce394a)
 
 ---
 ### 3. **🌏Country-wise Analysis**
 - Focuses on specific countries to analyze their performance.
 
 - Displays top athletes and sports where the country excelled.
-
+![image](https://github.com/user-attachments/assets/e985a7f4-891d-48cf-98af-8b85e3d2fc28)
+![image](https://github.com/user-attachments/assets/5f620ddc-afed-467a-a3f1-59e0146a23b8)
+![image](https://github.com/user-attachments/assets/3a697272-c77c-49f2-ad53-6b6544f809fc)
 ---
 
 ### 4. **👤Athlete-wise Analysis**
 - Explores individual athlete performance based on age, height, and weight.
 
 - Highlights the distribution of medals among athletes and their physical attributes.
+
+![image](https://github.com/user-attachments/assets/07d55304-43c6-4b23-a949-fc496747156b)
 
 ---
 
