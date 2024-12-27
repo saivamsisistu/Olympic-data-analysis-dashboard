@@ -120,7 +120,7 @@ Includes visualizations like line graphs and bar charts to showcase trends over 
 1. Clone the Repository:
 
 ```bash
-   git clone https://github.com/yourusername/TATA-GROUPS-DASHBOARD.git
+   git clone https://github.com/yourusername/Olympic-data-analysis-dashboard.git
 ```
 2. Install Dependencies:
 ```bash
