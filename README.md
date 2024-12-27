@@ -71,14 +71,18 @@ This project is designed to facilitate data-driven decision-making and enhance a
 - Displays the overall medal tally for all Olympics events.
 - Users can filter data by year, country, and sport to view specific results.
 
-![t1](https://github.com/user-attachments/assets/800d2599-5013-42f8-b10c-b19a30bb2a9b)
+![image](https://github.com/user-attachments/assets/b04938c3-83b4-425d-a707-431128040b83)
+
+
 ---
 ### 2. **🔄Overall Analysis**
 Provides insights into trends such as participation growth and event diversification.
 
 Includes visualizations like line graphs and bar charts to showcase trends over time.
 
-![t2](https://github.com/user-attachments/assets/c5a971a4-1019-4b1a-8d0e-1b780fb93112)
+![image](https://github.com/user-attachments/assets/c078ede5-193f-4d97-9986-7e22133a9b98)
+![image](https://github.com/user-attachments/assets/a9d34ef9-5197-495b-993d-e21ad46ff56f)
+![image](https://github.com/user-attachments/assets/4bfd5301-9733-4b8c-8f98-ad6012fda349)
 
 ---
 ### 3. **🌏Country-wise Analysis**
