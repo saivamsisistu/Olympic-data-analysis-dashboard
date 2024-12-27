@@ -99,7 +99,7 @@ Includes visualizations like line graphs and bar charts to showcase trends over 
 - Explores individual athlete performance based on age, height, and weight.
 
 - Highlights the distribution of medals among athletes and their physical attributes.
-
+![image](https://github.com/user-attachments/assets/62cc4460-601c-4243-8102-e25340a81e7a)
 ![image](https://github.com/user-attachments/assets/07d55304-43c6-4b23-a949-fc496747156b)
 
 ---
